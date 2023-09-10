@@ -1,0 +1,2047 @@
+title: KHBBS Sonic Music Pack
+originalAuthor: SpaceBoiStreams
+description: A music pack for KHBBS that replaces all the music in the game with Sonic music! (And a few fun surprises as well...) A ReadMe with Spoliers in the mod folder! (ONLY FOR PATCHING ATM, PANACEA DOES NOT WORK WITH BBS OR RE COM AS OF NOW)
+game: bbs
+specifications: 0
+dependencies: 
+assets:
+- name: sound\win\bgm\070key_l.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_first
+  multi: 
+  source:
+  - name: sound\win\bgm\070key_l.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\073kizuna.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_first
+  multi: 
+  source:
+  - name: sound\win\bgm\073kizuna.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\005syugyo_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_first
+  multi: 
+  source:
+  - name: sound\win\bgm\005syugyo_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\006syugyo_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_first
+  multi: 
+  source:
+  - name: sound\win\bgm\006syugyo_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\035kinpaku.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_first
+  multi: 
+  source:
+  - name: sound\win\bgm\035kinpaku.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\036seisin.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_first
+  multi: 
+  source:
+  - name: sound\win\bgm\036seisin.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\050title.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_first
+  multi: 
+  source:
+  - name: sound\win\bgm\050title.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\001sinde_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\001sinde_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\002sinde_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\002sinde_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\003nemure_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\003nemure_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\004nemure_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\004nemure_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\005syugyo_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\005syugyo_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\006syugyo_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\006syugyo_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\007shira_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\007shira_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\008shira_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\008shira_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\009raydi_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\009raydi_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\010raydi_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\010raydi_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\011distow_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\011distow_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\012distow_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\012distow_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\013never_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\013never_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\014never_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\014never_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\015herc_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\015herc_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\017riro_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\017riro_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\018riro_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\018riro_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\019iensid_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\019iensid_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\020iensid_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\020iensid_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\021kouya_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\021kouya_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\022disice_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\022disice_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\023tsusin_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\023tsusin_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\030youki.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\030youki.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\032odayaka.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\032odayaka.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\033fuon.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\033fuon.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\034kanasii.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\034kanasii.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\035kinpaku.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\035kinpaku.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\036seisin.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\036seisin.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\038ria_deai.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\038ria_deai.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\040anba_b1.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\040anba_b1.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\041anba_b2.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\041anba_b2.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\042dis_b1.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\042dis_b1.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\043dis_b2.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\043dis_b2.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\044vanita_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\044vanita_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\047last_b2.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\047last_b2.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\049hanyo_b2.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\049hanyo_b2.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\050title.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\050title.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\060tera.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\060tera.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\061aqua.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\061aqua.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\062ven.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\062ven.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\063kairi1.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\063kairi1.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\066peet.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\066peet.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\068zea.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\068zea.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\069braig.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\069braig.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\070key_l.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\070key_l.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\071key_d.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\071key_d.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\072key_l_d.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\072key_l_d.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\073kizuna.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\073kizuna.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\074zack.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\074zack.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\104dice.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\104dice.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\105poomini.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\105poomini.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\107syugyo.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\107syugyo.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\108riro.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\108riro.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\109training.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\109training.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\110han_bt1.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\110han_bt1.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\111han_bt2.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\111han_bt2.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\112rage_bt.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\112rage_bt.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\115boss.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\115boss.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\116icon.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\116icon.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\122nazono.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\122nazono.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\125yami_f.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\125yami_f.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\126yami_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\126yami_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\127Xeha_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\127Xeha_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\130Mons_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\130Mons_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\113kh1tit.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\113kh1tit.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\128Eraqu_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\128Eraqu_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\067disvill.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\067disvill.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\103fruit.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\103fruit.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\016herc_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\016herc_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\031isamashi.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\031isamashi.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\045anthem_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\045anthem_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\048hanyo_b1.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\048hanyo_b1.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\051worldmap.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\051worldmap.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\117short_l2.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\117short_l2.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\114raceview.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\114raceview.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\106cartrace.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\106cartrace.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\046last_b1.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\046last_b1.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: sound\win\bgm\129Pure_b.win32.scd
+  method: copy
+  platform: pc
+  package: bbs_fourth
+  multi: 
+  source:
+  - name: sound\win\bgm\129Pure_b.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
